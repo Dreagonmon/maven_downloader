@@ -1,0 +1,5 @@
+__pycache__
+**/*.jar
+**/*.pom
+**/maven-metadata.xml
+.mvn_cache
